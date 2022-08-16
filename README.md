@@ -9,3 +9,5 @@
  
  
 ![Stock showcasepi](https://user-images.githubusercontent.com/97313664/184990277-6a4eadb1-0a16-4cef-a82f-236a155b7374.png)
+
+ ##![Code process](https://user-images.githubusercontent.com/97313664/184996153-32b87951-1e5b-4947-9a79-f1bc76f45d5e.png)##
